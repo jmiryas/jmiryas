@@ -15,16 +15,6 @@ Hi! I'm Rizky Ramadhan, a passionate self-taught Flutter and Laravel developer f
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmiryas&layout=compact&theme=dracula)
 
-## Stats
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmiryas&show_icons=true&theme=dracula" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmiryas&layout=compact&theme=dracula" />
-</a>
-
-
 
 
 
