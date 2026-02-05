@@ -10,12 +10,6 @@ Hi! I'm Rizky Ramadhan, a passionate programmer from Indonesia. My passion for s
 
 - 📫 How to reach me: [email](mailto:jmiryas@gmail.com)
 
-## Stats
-
-![jmiryas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmiryas&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmiryas&layout=compact&theme=dracula)
-
 
 
 
